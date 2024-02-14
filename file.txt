@@ -1,0 +1,4 @@
+"sname","sroll","sage","ssex","sbranch","m1","m2","m3","m4","m5"
+"RAja",101,19,"Male","CSE",90,95,86,90,67
+"Somu",102,18,"Male","MECH",78,90,78,53,67
+"Roja",102,19,"Female","EEE",78,89,89,53,89
